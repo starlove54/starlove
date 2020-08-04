@@ -37,4 +37,5 @@
 [1]: https://twitter.com/guyfromhills
 [5]: https://www.instagram.com/guyfromhills/?hl=en
 [2]: https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
+[3]: https://www.linkedin.com/in/guyfromhills/
 [6]: http://www.github.com/carlsednaoui
