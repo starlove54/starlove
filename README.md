@@ -11,8 +11,11 @@
  
 ### Connect with me:
 <img align="left" width="22px" src="images/linkedin-letters.svg">[Linkedin](https://www.linkedin.com/in/guyfromhills/)    
+<br/>
 <img align="left" width="22px" src="images/youtube-logo.svg">[Youtube](https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber) <br/>
+<br/>
 <img align="left" width="22px" src="images/twitter-black-shape.svg">[Twitter](https://twitter.com/guyfromhills)   <br/>
+<br/>
 <img align="left" width="22px" src="images/instagram-logo.svg">[Instagram](https://www.instagram.com/guyfromhills/?hl=en)  
 
 
