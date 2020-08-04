@@ -11,11 +11,14 @@
  <br/>
  
 ### Connect with me:
-<img align="left" width="22px" alt="guyfromhills | Linkedin" src="images/linkedin-letters.svg">(Linkedin)    
+
+<img align="left" width="22px" alt="guyfromhills | Linkedin" src="images/linkedin-letters.svg">[Linkedin]    
 <img align="left" width="22px" alt="guyfromhills | YouTube" src="images/youtube-logo.svg">(YouTube)
 <img align="left" width="22px" alt="guyfromhills | Twitter" src="images/twitter-black-shape.svg">(Twitter)
 <img align="left" width="22px" alt="guyfromhills | Instagram" src="images/instagram-logo.svg">(Instagram)
 
+
+![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=guyfromhills&show_icons=true&theme=dracula)
 
 <br/>
 <br/>
@@ -25,4 +28,4 @@
 [Instagram] : https://www.instagram.com/guyfromhills/?hl=en  
 ---
 
-![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=guyfromhills&show_icons=true&theme=dracula)
+
