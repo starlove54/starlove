@@ -10,13 +10,13 @@
  <br/>
  
 ### Connect with me:
-<img width="22px" src="images/linkedin-letters.svg">[Linkedin](https://www.linkedin.com/in/guyfromhills/)    
+[Linkedin](https://www.linkedin.com/in/guyfromhills/)    
 <br/>
-<img  width="22px" src="images/youtube-logo.svg">[Youtube](https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber) <br/>
+[Youtube](https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber) <br/>
 <br/>
-<img  width="22px" src="images/twitter-black-shape.svg">[Twitter](https://twitter.com/guyfromhills)   <br/>
+[Twitter](https://twitter.com/guyfromhills)   <br/>
 <br/>
-<img width="22px" src="images/instagram-logo.svg">[Instagram](https://www.instagram.com/guyfromhills/?hl=en)  
+[Instagram](https://www.instagram.com/guyfromhills/?hl=en)  
 
 
 <br/>
