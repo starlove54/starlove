@@ -11,18 +11,18 @@
  <br/>
  
 ### Connect with me:
-[Linkedin](https://www.linkedin.com/in/guyfromhills/)    
-<br/>
-[Youtube](https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber) <br/>
-<br/>
-[Twitter](https://twitter.com/guyfromhills)   <br/>
-<br/>
-[Instagram](https://www.instagram.com/guyfromhills/?hl=en)  
+<img align="left" width="22px" src="images/linkedin-letters.svg">    
+<img align="left" width="22px" src="images/youtube-logo.svg">
+<img align="left" width="22px" src="images/twitter-black-shape.svg">
+<img align="left" width="22px" src="images/instagram-logo.svg">
 
 
 <br/>
 <br/>
-
+[Linkedin]:(https://www.linkedin.com/in/guyfromhills/)
+[Youtube]:(https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber)
+[Twitter]:(https://twitter.com/guyfromhills) 
+[Instagram]:(https://www.instagram.com/guyfromhills/?hl=en)  
 ---
 
 ![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=guyfromhills&show_icons=true&theme=dracula)
