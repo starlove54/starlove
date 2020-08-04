@@ -12,28 +12,20 @@
  
 ### Connect with me:
 
-[<img align="left" width="22px" alt="guyfromhills | Linkedin" src="images/linkedin-letters.svg">][Linkedin]   
-[<img align="left" width="22px" alt="guyfromhills | YouTube" src="images/youtube-logo.svg">][YouTube]<br/>
-[<img align="left" width="22px" alt="guyfromhills | Twitter" src="images/twitter-black-shape.svg">][Twitter] <br/>
-[<img align="left" width="22px" alt="guyfromhills | Instagram" src="images/instagram-logo.svg">][Instagram]
-
----
-![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=guyfromhills&show_icons=true&theme=dracula)
-
-<br/>
-<br/>
-[Linkedin] : https://www.linkedin.com/in/guyfromhills/
-[Youtube] : https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
-[Twitter] : https://twitter.com/guyfromhills 
-[Instagram] : https://www.instagram.com/guyfromhills/?hl=en  
-
-
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 [![alt text][6.1]][6]
+
+
+---
+![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=guyfromhills&show_icons=true&theme=dracula)
+
+<br/>
+<br/>
+
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
