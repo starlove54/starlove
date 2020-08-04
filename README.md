@@ -1,7 +1,7 @@
 ### Hi there, I'm Anubhav - aka guyfromhills 
 <br/>
 
-# Moto - Love and Peace! <br/>
+## Moto - Love and Peace! <br/>
 🔭 I’m currently primarily working on making Games!<br/>
 🌱 Always open for interesting projects <br/>
 👯 Always open for collaboration with other content creators <br/>
@@ -19,7 +19,7 @@
 <br/>
 [Instagram](https://www.instagram.com/guyfromhills/?hl=en)  
 
-# lalalla
+
 <br/>
 <br/>
 
