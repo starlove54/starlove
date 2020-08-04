@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Anubhav - aka guyfromhills 
 
-<!--
-**guyfromhills/guyfromhills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Moto - Love and Peace!
+🔭 I’m currently primarily working on making Games!<br/>
+🌱 Always open for interesting projects <br/>
+👯 Always open for collaboration with other content creators <br/>
+🥅 2020 Goals: Make games, a lot of them! <br/>
+⚡ Fun fact: Workout and learn to play an instrument <br/>
+ 
+### Connect with me:
+[Linkedin](https://www.linkedin.com/in/guyfromhills/) <br/>
+[Youtube](https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber) <br/>
+[Twitter](https://twitter.com/guyfromhills) <br/>
+[Instagram](https://www.instagram.com/guyfromhills/?hl=en) <br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
