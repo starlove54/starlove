@@ -22,5 +22,8 @@
 <br/>
 <br/>
 
+---
+
+<img align="left alt="guyfromhills Github stats" src="https://github-readme-stats.vercel.app/api?username=guyfromhills@show_icons=true&hide_border=true"
 
 
