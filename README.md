@@ -11,10 +11,10 @@
  <br/>
  
 ### Connect with me:
-<img align="left" width="22px" alt="guyfromhills | Twitter" src="images/linkedin-letters.svg">[Linkedin]    
-<img align="left" width="22px" src="images/youtube-logo.svg">[YouTube]
-<img align="left" width="22px" src="images/twitter-black-shape.svg">[Twitter]
-<img align="left" width="22px" src="images/instagram-logo.svg">[Instagram]
+<img align="left" width="22px" alt="guyfromhills | Linkedin" src="images/linkedin-letters.svg">[Linkedin]    
+<img align="left" width="22px" alt="guyfromhills | YouTube" src="images/youtube-logo.svg">[YouTube]
+<img align="left" width="22px" alt="guyfromhills | Twitter" src="images/twitter-black-shape.svg">[Twitter]
+<img align="left" width="22px" alt="guyfromhills | Instagram" src="images/instagram-logo.svg">[Instagram]
 
 
 <br/>
