@@ -5,7 +5,7 @@
 🌱 Always open for interesting projects <br/>
 👯 Always open for collaboration with other content creators <br/>
 🥅 2020 Goals: Make games, a lot of them! <br/>
-⚡ Fun fact: Workout and learn to play an instrument <br/>
+⚡ Fun fact: Working out and learning to play an instrument <br/>
  
  <br/>
  
