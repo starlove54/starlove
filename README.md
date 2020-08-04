@@ -17,7 +17,7 @@
 [<img align="left" width="22px" alt="guyfromhills | Twitter" src="images/twitter-black-shape.svg">][Twitter] <br/>
 [<img align="left" width="22px" alt="guyfromhills | Instagram" src="images/instagram-logo.svg">][Instagram]
 
-
+---
 ![Anubhav's github stats](https://github-readme-stats.vercel.app/api?username=guyfromhills&show_icons=true&theme=dracula)
 
 <br/>
@@ -26,6 +26,6 @@
 [Youtube] : https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
 [Twitter] : https://twitter.com/guyfromhills 
 [Instagram] : https://www.instagram.com/guyfromhills/?hl=en  
----
+
 
 
