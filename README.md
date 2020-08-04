@@ -12,9 +12,9 @@
  
 ### Connect with me:
 
-[<img align="left" width="22px" alt="guyfromhills | Linkedin" src="images/linkedin-letters.svg">][Linkedin]    
-[<img align="left" width="22px" alt="guyfromhills | YouTube" src="images/youtube-logo.svg">][YouTube]
-[<img align="left" width="22px" alt="guyfromhills | Twitter" src="images/twitter-black-shape.svg">][Twitter]
+[<img align="left" width="22px" alt="guyfromhills | Linkedin" src="images/linkedin-letters.svg">][Linkedin]   
+[<img align="left" width="22px" alt="guyfromhills | YouTube" src="images/youtube-logo.svg">][YouTube]<br/>
+[<img align="left" width="22px" alt="guyfromhills | Twitter" src="images/twitter-black-shape.svg">][Twitter] <br/>
 [<img align="left" width="22px" alt="guyfromhills | Instagram" src="images/instagram-logo.svg">][Instagram]
 
 
