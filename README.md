@@ -8,10 +8,10 @@
 ⚡ Fun fact: Workout and learn to play an instrument <br/>
  
 ### Connect with me:
-[Linkedin](https://www.linkedin.com/in/guyfromhills/) <br/>
-[Youtube](https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber) <br/>
-[Twitter](https://twitter.com/guyfromhills) <br/>
-[Instagram](https://www.instagram.com/guyfromhills/?hl=en) <br/>
+<img src="guyfromhills/linkedin-letters.svg"> [Linkedin](https://www.linkedin.com/in/guyfromhills/) |   
+<img src="guyfromhills/youtube-logo.svg">[Youtube](https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber) | 
+<img src="guyfromhills/black-shape.svg">[Twitter](https://twitter.com/guyfromhills) |
+<img src="guyfromhills/instagram-logo.svg">[Instagram](https://www.instagram.com/guyfromhills/?hl=en) 
 
 
 
