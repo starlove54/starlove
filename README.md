@@ -12,10 +12,10 @@
  
 ### Connect with me:
 <br/>
-[<img align="left" width="15px" src="images/linkedin-letters.svg">][Linkedin]    
-[<img align="left" width="15px" src="images/youtube-logo.svg">][Youtube]<br/>
-[<img align="left" width="15px" src="images/twitter-black-shape.svg">][Twitter]  <br/>
-[<img align="left" width="15px" src="images/instagram-logo.svg">][Instagram]  <br/>
+[<img align="left" width="15px" src="images/linkedin-letters.svg"/>][Linkedin]    
+[<img align="left" width="15px" src="images/youtube-logo.svg"/>][Youtube]<br/>
+[<img align="left" width="15px" src="images/twitter-black-shape.svg"/>][Twitter]  <br/>
+[<img align="left" width="15px" src="images/instagram-logo.svg"/>][Instagram]  <br/>
 <br/>
 
 
