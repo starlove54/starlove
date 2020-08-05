@@ -11,7 +11,7 @@
  <br/>
  
 ### Connect with me:
-[<img align="left" width="15px" src="/images/linkedin-logo.png"/>][Linkedin] /n   
+[<img align="left" width="15px" src="/images/linkedin-logo.png"/>][Linkedin] \n   
 [<img align="left" width="15px" src="/images/youtube-logo.png"/>][Youtube]
 [<img align="left" width="15px" src="/images/twitter-black-shape.png"/>][Twitter]
 [<img align="left" width="15px" src="/images/instagram-logo.png"/>][Instagram]
