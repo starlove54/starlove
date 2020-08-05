@@ -17,10 +17,10 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="/images/linkedin-logo.png"/>][Linkedin] 
-[<img align="left" width="22px" src="/images/youtube-logo.png"/>][Youtube]
-[<img align="left" width="22px" src="/images/twitter-black-shape.png"/>][Twitter]
-[<img align="left" width="22px" src="/images/instagram-logo.png"/>][Instagram]
+[<img align="left" width="50px" src="/images/linkedin-logo.png"/>][Linkedin] 
+[<img align="left" width="50px" src="/images/youtube-logo.png"/>][Youtube]
+[<img align="left" width="50px" src="/images/twitter-black-shape.png"/>][Twitter]
+[<img align="left" width="50px" src="/images/instagram-logo.png"/>][Instagram]
 
 
 
