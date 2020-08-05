@@ -9,7 +9,7 @@
 ⚡ Fun fact: Working out and learning to play an instrument <br/>
  
  <br/>
- ![Alt GAME](/images/games.jpg)
+ ![Alt Text](/images/games.jpg)
  
   
  
