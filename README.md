@@ -20,8 +20,7 @@
 [<img align="left" width="100px" src="/images/linkedin-logo.png"/>][Linkedin] 
 [<img align="left" width="100px" src="/images/youtube-logo.png"/>][Youtube]<br/>
 [<img align="left" width="100px" src="/images/twitter-black-shape.png"/>][Twitter]<br/>
-[<img align="left" width="100px" src="/images/instagram-logo.png"/>][Instagram]<br/>
-
+[<img align="left" width="100px" src="/images/instagram-logo.png"/>][Instagram]
 <br/>
 
 
