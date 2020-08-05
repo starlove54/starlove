@@ -11,10 +11,7 @@
  <br/>
  
 ### Connect with me:
-[<img align="left" width="15px" src="/images/linkedin-logo.png"/>][Linkedin] 
-[<img align="left" width="15 px" src="/images/youtube-logo.png"/>][Youtube]<br/>
-[<img align="left" width="15px" src="/images/twitter-black-shape.png"/>][Twitter]<br/>
-[<img align="left" width="15px" src="/images/instagram-logo.png"/>][Instagram]<br/>
+[<img align="left" width="15px" src="/images/linkedin-logo.png"/>][Linkedin] [<img align="left" width="15 px" src="/images/youtube-logo.png"/>][Youtube] [<img align="left" width="15px" src="/images/twitter-black-shape.png"/>][Twitter] [<img align="left" width="15px" src="/images/instagram-logo.png"/>][Instagram]<br/>
 <br/> 
 
 
