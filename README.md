@@ -22,12 +22,8 @@
 [<img align="left" width="50px" src="/images/twitter-black-shape.png"/>][Twitter]
 [<img align="left" width="50px" src="/images/instagram-logo.png"/>][Instagram]
 
-
-
-
-
-
 <br/>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyfromhills&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
