@@ -8,11 +8,13 @@
 🥅 2020 Goals: Make games, a lot of them! <br/>
 ⚡ Fun fact: Working out and learning to play an instrument <br/>
  
- <br/>
-![alt games](https://images/games.jpg)
-  
  
- <br/>
+<br/>
+ 
+![alt text](https://github.com/guyfromhills/guyfromhills/blob/master/images/games.jpg)
+ 
+<br/>
+
 ### Connect with me:
 
 [<img align="left" width="22px" src="/images/linkedin-logo.png"/>][Linkedin] 
