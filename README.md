@@ -9,7 +9,11 @@
 ⚡ Fun fact: Working out and learning to play an instrument <br/>
  
  <br/>
+ ![GAME](/images/logo.png)
  
+  
+ 
+ <br/>
 ### Connect with me:
 
 [<img align="left" width="22px" src="/images/linkedin-logo.png"/>][Linkedin] 
