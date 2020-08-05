@@ -30,9 +30,9 @@
 <br/>
 <br/>
 
-[Linkedin] : https://www.linkedin.com/in/guyfromhills/ 
-[Youtube] : https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
-[Twitter] : https://twitter.com/guyfromhills
-[Instagram] : https://www.instagram.com/guyfromhills/?hl=en
+[Linkedin]:https://www.linkedin.com/in/guyfromhills/ 
+[Youtube]:https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
+[Twitter]:https://twitter.com/guyfromhills
+[Instagram]:https://www.instagram.com/guyfromhills/?hl=en
 
 
