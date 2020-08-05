@@ -12,13 +12,13 @@
  
 ### Connect with me:
 <br/>
-[![alt text][1.1]][1]
-Linkedin    
-YouTube
-Instagram
+[<img src="images/linkedin-logo.png"/>][Linkedin]    
+[<img align="left" width="15px" src="images/youtube-logo.png"/>][Youtube]<br/>
+[<img align="left" width="15px" src="images/twitter-black-shape.png"/>][Twitter] <br/>
+[<img align="left" width="15px" src="images/instagram-logo.png"/>][Instagram]
 <br/>
 <br/>
-
+<br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyfromhills&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,14 +29,12 @@ Instagram
 
 <br/>
 <br/>
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-
-[1]: https://twitter.com/guyfromhills
 
 
 [Linkedin]:https://www.linkedin.com/in/guyfromhills/ 
 [Youtube]:https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
 [Twitter]:https://twitter.com/guyfromhills
 [Instagram]:https://www.instagram.com/guyfromhills/?hl=en
+
 
 
