@@ -12,12 +12,9 @@
  
 ### Connect with me:
 <br/>
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyfromhills&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -25,17 +22,6 @@
 
 <br/>
 <br/>
-https://imgur.com/XYElIhW
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: https://imgur.com/7pL6mzR (instagram icon with padding)
-[3.1]: https://imgur.com/7pL6mzR (youtube plus icon with padding)
-[4.1]: https://imgur.com/Juo1s2p (linkedin icon with padding)
-
-
-[1]: https://twitter.com/guyfromhills
-[2]: https://www.instagram.com/guyfromhills/?hl=en
-[3]: https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
-[4]: https://www.linkedin.com/in/guyfromhills/
 
 
