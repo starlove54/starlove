@@ -12,10 +12,11 @@
  
 ### Connect with me:
 <br/>
-<img align="left" width="22px" src="images/linkedin-letters.svg">[Linkedin]:(https://www.linkedin.com/in/guyfromhills/)    
-<img align="left" width="22px" src="images/youtube-logo.svg">[Youtube]:(https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber) <br/>
-<img align="left" width="22px" src="images/twitter-black-shape.svg">[Twitter]:(https://twitter.com/guyfromhills)  <br/>
-<img align="left" width="22px" src="images/instagram-logo.svg">[Instagram]:(https://www.instagram.com/guyfromhills/?hl=en)  
+<img align="left" width="22px" src="images/linkedin-letters.svg">[Linkedin]    
+<img align="left" width="22px" src="images/youtube-logo.svg">[Youtube]<br/>
+<img align="left" width="22px" src="images/twitter-black-shape.svg">[Twitter]  <br/>
+<img align="left" width="22px" src="images/instagram-logo.svg">[Instagram]  <br/>
+<br/>
 
 
 
@@ -29,5 +30,9 @@
 <br/>
 <br/>
 
+[Linkedin] : https://www.linkedin.com/in/guyfromhills/ 
+[Youtube] : https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
+[Twitter] : https://twitter.com/guyfromhills
+[Instagram] : https://www.instagram.com/guyfromhills/?hl=en
 
 
