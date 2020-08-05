@@ -11,12 +11,12 @@
  <br/>
  
 ### Connect with me:
-[<img align="left" width="15px" src="/images/linkedin-logo.png"/>][Linkedin] \n   
-[<img align="left" width="15px" src="/images/youtube-logo.png"/>][Youtube]
+[<img align="left" width="15px" src="/images/linkedin-logo.png"/>][Linkedin]   [<img align="left" width="15px" src="/images/youtube-logo.png"/>][Youtube]
 [<img align="left" width="15px" src="/images/twitter-black-shape.png"/>][Twitter]
 [<img align="left" width="15px" src="/images/instagram-logo.png"/>][Instagram]
 <br/>
-<br/>
+<br/> 
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyfromhills&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
