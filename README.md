@@ -12,10 +12,10 @@
  
 ### Connect with me:
 <br/>
-[Linkedin]    
-[YouTube]
-[Twitter]
-[Instagram]  
+Linkedin    
+YouTube
+Twitter
+Instagram
 <br/>
 <br/>
 
