@@ -11,7 +11,7 @@
  
 <br/>
  
-![alt text](https://github.com/guyfromhills/guyfromhills/blob/master/images/games.jpg)
+![alt Game](https://github.com/guyfromhills/guyfromhills/blob/master/images/games.jpg)
  
 <br/>
 
