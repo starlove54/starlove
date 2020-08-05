@@ -12,9 +12,9 @@
  
 ### Connect with me:
 <br/>
+[![alt text][1.1]][1]
 Linkedin    
 YouTube
-Twitter
 Instagram
 <br/>
 <br/>
@@ -29,6 +29,10 @@ Instagram
 
 <br/>
 <br/>
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+
+[1]: https://twitter.com/guyfromhills
+
 
 [Linkedin]:https://www.linkedin.com/in/guyfromhills/ 
 [Youtube]:https://www.youtube.com/channel/UCY9wK6W6rzvGNxidxC7Tgiw?view_as=subscriber
