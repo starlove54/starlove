@@ -17,7 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" height="100px" width="100px" src="/images/linkedin-logo.png"/>][Linkedin] 
+[<img height="100px" width="100px" src="/images/linkedin-logo.png"/>][Linkedin] 
 [<img align="left" height="100px" width="100px" src="/images/youtube-logo.png"/>][Youtube]
 [<img align="left" height="100px" width="100px" src="/images/twitter-black-shape.png"/>][Twitter]
 [<img align="left" height="100px" width="100px" src="/images/instagram-logo.png"/>][Instagram]
