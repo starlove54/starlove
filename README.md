@@ -11,9 +11,9 @@
  
 <br/>
  
-![alt Game](https://github.com/guyfromhills/guyfromhills/blob/master/images/games.jpg)
+
  
-<br/>
+
 
 ### Connect with me:
 
