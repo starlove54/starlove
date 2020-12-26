@@ -1,4 +1,4 @@
-### Hi there, I'm Anubhav - aka guyfromhills 
+### Hi there, I'm Anubhav
 <br/>
 
 ##  Love and Peace! <br/>
