@@ -16,13 +16,7 @@ I am a front-end developer
  
 
 
-### Connect with me:
 
-[<img  src="/images/linkedin-logo.png" height="100px" width="100px" />][Linkedin] 
-[<img  src="/images/youtube-logo.png" height="100px" width="100px" />][Youtube]
-[<img  src="/images/twitter-black-shape.png" height="100px" width="100px" />][Twitter]
-[<img  src="/images/instagram-logo.png" height="100px" width="100px" />][Instagram]
-<br/>
 
 
 
