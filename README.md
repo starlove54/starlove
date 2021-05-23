@@ -1,13 +1,8 @@
 ### Hi there, I'm Anubhav aka guyfromhills
-I am a front-end developer
+I am a full-stack developer
 <br/>
 
-##  Love and Peace! <br/>
-🔭 I’m currently working on making Games!<br/>
-🌱 Always open for interesting projects <br/>
-👯 Always open for collaboration with other content creators <br/>
-🥅 2021 Goals: Make games, a lot of them! <br/>
-⚡ Fun fact: Working out and learning to play an instrument <br/>
+
  
  
 <br/>
