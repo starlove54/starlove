@@ -1,5 +1,5 @@
 ### Hi there, I'm Anubhav aka guyfromhills
-Full-Stack developer
+Front-End developer
 <br/>
 
 
