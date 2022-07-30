@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am a software developer
+# Hi I am Anubhav:
+
 
 
 ## 🌐 Socials:
