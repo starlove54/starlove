@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
-![anubhav-negi](https://user-images.githubusercontent.com/24490645/217318100-44cf2352-61cc-4171-844d-533f8834129c.png)
 
 <h3 align="center">frontend dev</h3>
 
