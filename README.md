@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
-![My image](https://drive.google.com/file/d/1Ojy251O_Za0qccfRfiwfJ4_ps2ZGZIzS/view)
+![My image](https://user-images.githubusercontent.com/24490645/217316920-94603ee2-d6ed-4ca8-abd8-d0d9f086331f.png)
 <h3 align="center">frontend dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starlove54&label=Profile%20views&color=0e75b6&style=flat" alt="starlove54" /> </p>
