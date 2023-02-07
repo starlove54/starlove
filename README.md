@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
-![My image](https://user-images.githubusercontent.com/24490645/217316920-94603ee2-d6ed-4ca8-abd8-d0d9f086331f.png)
+![anubhav-negi](https://user-images.githubusercontent.com/24490645/217318100-44cf2352-61cc-4171-844d-533f8834129c.png)
+
 <h3 align="center">frontend dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starlove54&label=Profile%20views&color=0e75b6&style=flat" alt="starlove54" /> </p>
