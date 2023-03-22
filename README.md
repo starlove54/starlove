@@ -1,7 +1,7 @@
+![Alt text](/images/anubhav-negi.png)
 <h1 align="center">Hi 👋, I'm Anubhav</h1>
 
 <h3 align="center">frontend dev</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starlove54&label=Profile%20views&color=0e75b6&style=flat" alt="starlove54" /> </p>
 
