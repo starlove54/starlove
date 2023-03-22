@@ -2,7 +2,7 @@
 
 <h3 align="center">frontend dev</h3>
 
-![image1](images/anubhav-negi.png)
+![image1](../images/anubhav-negi.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starlove54&label=Profile%20views&color=0e75b6&style=flat" alt="starlove54" /> </p>
 
