@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/anubhavnegi54" target="blank"><img src="https://img.shields.io/twitter/follow/anubhavnegi54?logo=twitter&style=for-the-badge" alt="anubhavnegi54" /></a> </p>
 
 - 🔭 Quite recently started competitive programming and loving it [codeforces](https://codeforces.com/profile/starlove) and [atcoder](https://atcoder.jp/users/starlove)
--  I stream my gamedev and software development vlogs on [twitch](https://www.twitch.tv/starlove_54).
+- <i class="fa fa-twitch" style="font-size:24px"></i> I stream my gamedev and software development vlogs on [twitch](https://www.twitch.tv/starlove_54).
 
 <!-- - 🌱 I’m currently learning **react and next.js** -->
 
