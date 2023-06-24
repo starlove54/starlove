@@ -8,13 +8,12 @@
 <p align="left"> <a href="https://twitter.com/anubhavnegi54" target="blank"><img src="https://img.shields.io/twitter/follow/anubhavnegi54?logo=twitter&style=for-the-badge" alt="anubhavnegi54" /></a> </p>
 
 - 🔭 Quite recently started competitive programming and loving it [leetcode](https://leetcode.com/anubhavnegi54/), [codeforces](https://codeforces.com/profile/starlove) and [atcoder](https://atcoder.jp/users/starlove)
-- 🎮 I stream my gamedev and software development vlogs on [twitch](https://www.twitch.tv/starlove_54).
 
 <!-- - 🌱 I’m currently learning **react and next.js** -->
 
 <!-- - 👨‍💻 Some cool projects are available at [https://anubhavnegi.com/projects](https://anubhavnegi.com/projects) -->
 
-- 📝 I regularly write articles on [https://medium.com/@anubhavnegi54](https://medium.com/@anubhavnegi54)
+- 📝 Catch some of my tech blogs here [https://medium.com/@anubhavnegi54](https://medium.com/@anubhavnegi54)
 
 - 📫 How to reach me **anubhavnegi54@gmail.com**
 
