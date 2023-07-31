@@ -13,9 +13,9 @@
 
 <!-- - 👨‍💻 Some cool projects are available at [https://anubhavnegi.com/projects](https://anubhavnegi.com/projects) -->
 
-- 📝 Catch some of my tech blogs here [https://medium.com/@anubhavnegi54](https://medium.com/@anubhavnegi54)
+- 📝 I share my ideas in depth here [https://medium.com/@anubhavnegi54](https://medium.com/@anubhavnegi54)
 
-- 📫 How to reach me **anubhavnegi54@gmail.com**
+- 📫 Easily reach me by mailing me at **anubhavnegi54@gmail.com** or dm me @anubhavnegi54 on twitter
 
 
 [![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=starlove54)](https://github.com/starlove54/github-readme-stats)
