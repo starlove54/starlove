@@ -15,6 +15,8 @@
 
 - 📝 I rant about stuff here [https://medium.com/@anubhavnegi54](https://medium.com/@anubhavnegi54)
 
+  <h4>Rewards</h4>
+
 [![An image of @starlove54's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/starlove54)](https://holopin.io/@starlove54)
 
 [![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=starlove54)](https://github.com/starlove54/github-readme-stats)
