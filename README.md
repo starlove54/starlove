@@ -9,7 +9,7 @@
 
 - 🔭 Novice competitive programmer [leetcode](https://leetcode.com/anubhavnegi54/), [codeforces](https://codeforces.com/profile/starlove) and [atcoder](https://atcoder.jp/users/starlove)
 
-<!-- - 🌱 I’m currently learning **react and next.js** -->
+- 🌱 I’m currently learning **MERN and cloud computing** 
 
 <!-- - 👨‍💻 Some cool projects are available at [https://anubhavnegi.com/projects](https://anubhavnegi.com/projects) -->
 
