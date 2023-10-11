@@ -21,6 +21,6 @@
 
 [![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=starlove54)](https://github.com/starlove54/github-readme-stats)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
