@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **MERN and cloud computing**
 
 - 🧑🏽‍💻 open source enthusiasts and contributor  
+- 🧑🏽‍💻 check out my most recent work [stocktrends app](https://github.com/starlove54/stocktrends)  
 
 <!-- - 👨‍💻 Some cool projects are available at [https://anubhavnegi.com/projects](https://anubhavnegi.com/projects) -->
 
