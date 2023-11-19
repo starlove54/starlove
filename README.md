@@ -13,6 +13,7 @@
 
 - 🧑🏽‍💻 open source enthusiasts and contributor  
 - 🧑🏽‍💻 check out my most recent work [stocktrends app](https://github.com/starlove54/stocktrends)  
+- 🧑🏽‍💻 latest project in my coding adventure series [solar system vizualizer](https://github.com/starlove54/stocktrends)  
 
 <!-- - 👨‍💻 Some cool projects are available at [https://anubhavnegi.com/projects](https://anubhavnegi.com/projects) -->
 
