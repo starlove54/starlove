@@ -13,7 +13,7 @@
 
 - 🧑🏽‍💻 open source enthusiasts and contributor  
 - 🖥️ check out my most recent work [stocktrends app](https://github.com/starlove54/stocktrends)  
-- 🧑🏽‍💻 latest project in my coding adventure series [breadth-first-search](https://breadth-first-search-viz.vercel.app/)  
+- 🧑🏽‍💻 latest project in my coding adventure series [breadth-first-search](https://github.com/starlove54/breadth-first-search-viz)  
 - 🧑🏽‍💻 learn from my latest video [Building a 2d solar system with code ?](https://www.youtube.com/shorts/-ooxfjTU_Gg)  
 
 
